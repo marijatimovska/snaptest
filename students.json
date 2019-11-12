@@ -1,0 +1,39 @@
+{
+  "student": [
+    {
+      "first_name": "Michael",
+      "last_name": "Lawson",
+      "email": "michael.lawson@reqres.in"
+    },
+    {
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "email": "lindsay.ferguson@reqres.in"
+    },
+    {
+      "first_name": "Maria",
+      "last_name": "Ferguson",
+      "email": "marija.ferguson@reqres.in"
+    },
+    {
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "email": "tobias.funke@reqres.in"
+    },
+    {
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "email": "byron.fields@reqres.in"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Edwards",
+      "email": "george.edwards@reqres.in"
+    },
+    {
+      "first_name": "Rachel",
+      "last_name": "Howell",
+      "email": "rachel.howell@reqres.in"
+    }
+  ]
+}
